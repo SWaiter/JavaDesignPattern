@@ -1,7 +1,7 @@
 Java设计模式
 ---
 
-本项目主要记录《Java设计模式》系列文章对应的实例代码，具体的文章详见[作者个人博客](http://www.jasongj.com)[http://www.jasongj.com](http://www.jasongj.com)
+本项目主要记录《Java设计模式》系列文章对应的实例代码
 
 - [Java设计模式（一） 简单工厂模式不简单](http://www.jasongj.com/design_pattern/simple_factory/)
 - [Java设计模式（二） 工厂方法模式](http://www.jasongj.com/design_pattern/factory_method/)
